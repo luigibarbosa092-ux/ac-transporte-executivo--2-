@@ -1,0 +1,6 @@
+{
+  "name": "AC Transporte Executivo",
+  "description": "Site institucional premium para AC Transporte Executivo em Porto de Galinhas, Recife e região.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
